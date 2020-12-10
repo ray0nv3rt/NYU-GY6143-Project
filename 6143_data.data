@@ -1,0 +1,6 @@
+classes= 4
+train  = /home/spgz/czh/darknet-master/6143data/dataset_train.txt
+valid  = /home/spgz/czh/darknet-master/6143data/dataset_train.txt
+names = /home/spgz/czh/darknet-master/6143data/6143.names
+backup = /home/spgz/czh/darknet-master/6143data/weights
+
